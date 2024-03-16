@@ -6,8 +6,11 @@
 ## Features
 
 **Real-time communication**: Messages are delivered instantly using Socket.IO, providing a seamless chat experience.
+<br>
 **Chat rooms**: Users can create and join chat rooms to connect with specific groups or communities.
+<br>
 **Simple and intuitive interface**: The web-based interface is designed for ease of use, allowing users to focus on conversations.
+<br>
 **Storing** : Everytime you refresh the data will be cleared as we use dictionaries so do not do that in future MONGODB will be added to solve this.
 
 ## Installation
@@ -37,6 +40,10 @@ flask run
 ## Usage
 
 **Create a chat room**: Provide a unique code for your chat room and click "Create Room" or a similar button in the interface.
+<br>
+
 **Join a chat room**: Enter the existing chat room code and click "Join Room" to participate in the conversation.
+<br>
+
 **Send messages**: Type your message in the designated input field and press Enter or click the "Send" button to broadcast it to other users in the chat room.
 
