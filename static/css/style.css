@@ -3,7 +3,6 @@
   align-items: center;
   justify-content: center;
   font-family: "Inter";
-
 }
 
 .buttons {
@@ -65,6 +64,7 @@ h2 {
   padding-left: 10px;
   padding-right: 10px;
   font-family: "Inter";
+
 }
 
 .muted {
